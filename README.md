@@ -12,7 +12,7 @@
 
 ------------
 
-Swift로 개발되었으며 Segue, datePicker, UserDefaults, TableView 등을 활용하였고 정보 읽기, 쓰기 기능을 가지고 있습니다. 
+Swift로 개발되었으며 Segue, DatePicker, UserDefaults, TableView 등을 활용하였고 정보 읽기, 쓰기 기능을 가지고 있습니다. 
 
 ### Development Environment
 
